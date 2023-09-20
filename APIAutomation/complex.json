@@ -1,0 +1,32 @@
+{
+  "movies" : [ {
+    "cast" : [ "Batting", "Bowling", "Attacker" ],
+    "years" : 2023,
+    "title" : "T20"
+  }, {
+    "cast" : [ "Batting", "Fielding", "Chasing Master" ],
+    "years" : 2018,
+    "title" : "Test"
+  }, {
+    "cast" : [ "Batting", "Bowling", "Record Breaker" ],
+    "years" : 2020,
+    "title" : "ODI"
+  } ],
+  "tvseries" : [ {
+    "year" : 2016,
+    "title" : "TNPL"
+  }, {
+    "year" : 2000,
+    "title" : "IPL"
+  }, {
+    "year" : 2010,
+    "title" : "Ranji"
+  } ],
+  "otherdetails" : {
+    "language" : "English",
+    "country" : "India"
+  },
+  "franchises" : [ "Batting Coach", "Bolwing Coach" ],
+  "category" : "Cricket",
+  "genres" : [ "Batting", "Bolwing", "WK", "Captain", "Vice captain" ]
+}

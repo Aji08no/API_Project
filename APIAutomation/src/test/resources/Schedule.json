@@ -1,0 +1,24 @@
+{
+"WorldCup":{
+   "Matches":[
+      {
+   "Category":"T20",
+   "Country":"India",
+   "Captain":"Hardik",
+   "Ranking":01
+  },
+   {
+   "Category":"T20",
+   "Country":"Austrialia",
+   "Captain":"Pat Cummins",
+   "Ranking":04
+  },
+   {
+   "Category":"T20",
+   "Country":"South Africa",
+   "Captain":"Miller",
+   "Ranking":08
+   }
+  ]
+ }
+}
